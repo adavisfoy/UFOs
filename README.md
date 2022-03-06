@@ -18,13 +18,19 @@ Users are welcome to use one or multiple filters as desired.
 Each of the filters requires numeric/date or alpha text input. 
 
 **Please Note:** 
-- The date should be entered into the date filter **without leading zeros for the month or day.** 
+- The date should be entered into the date filter **without leading zeros for the month or day** to successfully return UFO sighting results. 
   - Only data for **January 1, 2010 through January 13, 2010** is available for review and filtering. 
 
+Correct entry of date successfully returns results: 
 
+Incorrect entry of date - no results returned: 
 
 - All **alpha text inputs** should be **lowercase** to successfully return results. 
 - After entering date or alpha text in the applicable filter field, **press the Tab key** on your keyboard or **click into another field with your mouse** to return the filtered results.  
+
+Lowercase city returns results: 
+
+Uppercase city - no results returned: 
 
 ## Summary:
 
